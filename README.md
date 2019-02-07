@@ -1,0 +1,77 @@
+This repo contains my analysis of a dataset containing information about the students of an engineering college.
+
+The dataset is consisted of the following columns:
+ 'SL.NO.',
+ 'STUDENT'S COLLEGE ID',
+ 'DEPARTMENT (ABBR.)',
+ 'GENDER (M/F)',
+ 'AGE (IN YRS.)',
+ 'NAME OF EXAMINATION - CLASS X',
+ 'NAME OF BOARD - CLASS X',
+ 'NAME OF SCHOOL(IN FULL)-CLASS X',
+ 'SUBJECT COMINATION (DO NOT USE ABBR.)-CLASS X',
+ 'MEDIUM OF INSTRUCTION-CLASS X',
+ 'Y.O.P - CLASS X',
+ 'STANDARD % OF CLASS X',
+ 'ACTUAL % OF CLASS X',
+ 'TOTAL MARKS OBTAINED IN ALL THE SUBJECTS IN CLASS X',
+ 'TOTAL MARKS OF EXAM APPEARED IN CLASS X',
+ 'NAME OF EXAMINATION - CLASS XII',
+ 'NAME OF BOARD/COUNCIL - CLASS XII',
+ 'NAME OF SCHOOL(IN FULL) - CLASS XII',
+ 'SUBJECT COMINATION (DO NOT USE ABBR.) - CLASS XII',
+ 'MEDIUM OF INSTRUCTION - CLASS XII',
+ 'Y.O.P - CLASS XII',
+ 'STANDARD % OF CLASS XII',
+ 'ACTUAL % OF CLASS XII',
+ 'TOTAL MARKS OBTAINED IN ALL THE SUBJECTS IN CLASS XII',
+ 'TOTAL MARKS OF EXAM APPEARED IN CLASS XII',
+ 'DIPLOMA STREAM',
+ 'DIPLOMA UNIVERSITY/BOARD/COUNCIL (IN FULL)',
+ 'NAME OF INSTITUTE (IN FULL) - DIPLOMA',
+ 'MEDIUM OF INSTRUCTION- DIPLOMA',
+ 'Y.O.P - DIPLOMA',
+ 'DIPLOMA AGGREGATE MARKS % ',
+ 'NAME OF JOINT ENTRANCE (WBJEE/JEE-MAINS/JELET ETC.)',
+ 'ENTRANCE RANK(OVERALL ALL INDIA RANK)',
+ 'ENTRANCE RANK(STATE RANK)',
+ 'YEAR OF JOINT ENTRANCE EXAM',
+ 'CURRENT COURSE',
+ 'CURRENT STREAM',
+ 'YEAR OF ENTRY',
+ 'YEAR OF PASSING',
+ 'MEDIUM OF INSTRUCTION',
+ 'SEM 1',
+ 'SEM 2',
+ 'SEM 3',
+ 'SEM 4',
+ 'SEM 5',
+ 'SEM AVG',
+ 'ANY BACKLOG(S) IN CURRENT COURSE(YES/NO)',
+ 'IF YES, MENTION NUMBER OF BACKLOG(S)',
+ 'OVERALL YEAR GAP(S) IN ACADEMIC CAREER (YES/NO)',
+ 'IF YES, MENTION THE DURATION(S) (YYYY-YYYY)',
+ 'TOTAL GAP IN YEAR(S)',
+ 'CORE TECHNICAL STRENGTH',
+ 'COMPUTER LANGUAGES KNOWN',
+ 'PROJECT TITLE- INDUSTRIAL TRAINING/ V.T./ INTERNSHIP',
+ 'NAME OF THE ORGANIZATION',
+ 'DURATION (FROM DD/MM/YYYY TO DD/MM/YYYY)',
+ 'ANY SEMINARS/WORKSHOPS ATTENDED',
+ 'WORK EXPERIENCE, IF ANY (MONTHS / YEARS AS APPLICABLE)',
+ 'NAME OF THE ORGANIZATION SERVED - WORK EXPERIENCE',
+ 'ACHIEVEMENTS (ACADEMIC) ',
+ 'ACHIEVEMENTS (NON ACADEMIC) ',
+ 'CERTIFICATIONS (ACADEMIC)',
+ 'CERTIFICATIONS (NON ACADEMIC)',
+ 'PERMANENT LOCATION (STATE)'
+ 
+ I think the column names are quite self-explanatory so I am skipping the broad data dictionary part. 
+ 
+ Throughout this analysis, I ask several questions to the dataset itself and eventually find out their answers. Sometimes, the answers were
+ pretty straight-forward but sometimes they were not - the dataset itself needed data cleaning which made it more fun. 
+ 
+ The sample questions are - 
+ * What is the student count per department?
+ * What is the highest semester grade obtained by a student from a particular department?
+ and so on...
