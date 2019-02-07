@@ -1,6 +1,6 @@
 This repo contains my analysis of a dataset containing information about the students of an engineering college.
 
-The dataset is consisted of the following columns:
+The dataset consists of the following columns:
  * 'SL.NO.',
  * 'STUDENT'S COLLEGE ID',
  * 'DEPARTMENT (ABBR.)',
@@ -20,7 +20,7 @@ The dataset is consisted of the following columns:
  * 'NAME OF BOARD/COUNCIL - CLASS XII',
  * 'NAME OF SCHOOL(IN FULL) - CLASS XII',
  * 'SUBJECT COMINATION (DO NOT USE ABBR.) - CLASS XII',
-*  'MEDIUM OF INSTRUCTION - CLASS XII',
+ * 'MEDIUM OF INSTRUCTION - CLASS XII',
  * 'Y.O.P - CLASS XII',
  * 'STANDARD % OF CLASS XII',
  * 'ACTUAL % OF CLASS XII',
@@ -56,7 +56,7 @@ The dataset is consisted of the following columns:
  * 'COMPUTER LANGUAGES KNOWN',
  * 'PROJECT TITLE- INDUSTRIAL TRAINING/ V.T./ INTERNSHIP',
  * 'NAME OF THE ORGANIZATION',
-*  'DURATION (FROM DD/MM/YYYY TO DD/MM/YYYY)',
+ * 'DURATION (FROM DD/MM/YYYY TO DD/MM/YYYY)',
  * 'ANY SEMINARS/WORKSHOPS ATTENDED',
  * 'WORK EXPERIENCE, IF ANY (MONTHS / YEARS AS APPLICABLE)',
  * 'NAME OF THE ORGANIZATION SERVED - WORK EXPERIENCE',
